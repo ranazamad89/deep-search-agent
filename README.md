@@ -61,11 +61,13 @@ Once everything is set up and installed, this is the command you'll use to start
 #### Run the agent script
 
 This command executes the Python script from your terminal. Be sure to replace **`your_script_name.py`** with the actual name of your file.
-
+here mine file name is main.py
 ```
-python your_script_name.py
+
+uv run main.py #run on terminal
 ```
 
 -----
+
 
 I hope this helps you get your deep search agent up and running\! Let me know if you have any other questions.
